@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="newJob:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/newJob_jar</output-path>
+    <root id="archive" name="newJob.jar">
+      <element id="module-output" name="newJob" />
+      <element id="extracted-dir" path="C:/H2/bin/h2-1.4.199.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
