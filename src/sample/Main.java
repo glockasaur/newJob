@@ -9,7 +9,7 @@ import javafx.scene.layout.HBox;
 import javafx.stage.Stage;
 
 import java.sql.*;
-
+//jar file included in this project
 public class Main extends Application {
   private TextArea ta = new TextArea();
   private Button btShowJobs = new Button("Show Records");
